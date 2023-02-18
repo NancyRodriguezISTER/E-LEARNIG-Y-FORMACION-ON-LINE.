@@ -1,13 +1,14 @@
 # E-LEARNIG-Y-FORMACION-ON-LINE.
 Se adjuntan temas referentes a la asignatura E-LEARNIG Y FORMACION ON LINE transcurrida en este periodo acdémico en el INSTITUTO SUPERIOR UNIVERSITARIO RUMIÑAHUI
 
-
-# E-LEARNIG-Y-FORMACION-ON-LINE
 ## Repositorio de contenidos de la asignatura E-LEARNIG Y FORMACION ON LINE
 encontrará documentación referente a la asignatura con temas de interes de diferentes sitios web.
 # ARTÍCULOS 
-### Informacion relevante del tema y artículos científicos
 
+*REPOSITORIO DE ARTICULOS* [Recursos Drive](g for Big Data Processing" por Bo Yang, et al. Disponible en: [https://www.sciencedirect.com/science/article/abs/pii/S0167739X20314308](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20314308))
+ 
+ 
+ ### Informacion relevante del tema y artículos científicos
  **1. Inteligencia Artificial:** 
   - "A Survey of Deep Learning: Platforms, Applications and Research Directions" por Kai Zhang y Wei Wu. Disponible en: [https://ieeexplore.ieee.org/document/9111559](https://ieeexplore.ieee.org/document/9111559)
 
