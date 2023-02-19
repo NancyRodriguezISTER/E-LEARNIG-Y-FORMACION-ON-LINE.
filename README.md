@@ -3,6 +3,20 @@ Se adjuntan temas referentes a la asignatura E-LEARNIG Y FORMACION ON LINE trans
 
 ## Repositorio de contenidos de la asignatura E-LEARNIG Y FORMACION ON LINE
 encontrará documentación referente a la asignatura con temas de interes de diferentes sitios web.
+
+# ENLACES DE INTERÉS
+
+1. [Coursera](https://www.coursera.org/) - Una plataforma que ofrece una amplia variedad de cursos en línea y programas de grado de universidades e instituciones de todo el mundo.
+2. [Udemy](https://www.udemy.com/) - Una plataforma en línea que ofrece una amplia variedad de cursos en línea, desde tecnología hasta arte y diseño, negocios y más.
+3. [edX](https://www.edx.org/) - Una plataforma en línea que ofrece cursos en línea gratuitos y de pago de universidades líderes en todo el mundo.
+4. [LinkedIn Learning](https://www.linkedin.com/learning/) - Una plataforma que ofrece cursos en línea en una amplia variedad de temas, desde habilidades de liderazgo y gestión hasta programación y diseño gráfico.
+5. [Khan Academy](https://www.khanacademy.org/) - Una organización sin fines de lucro que ofrece una amplia variedad de cursos gratuitos en línea en matemáticas, ciencias, programación y más.
+6. [Skillshare](https://www.skillshare.com/) - Una plataforma en línea que ofrece cursos en línea en una amplia variedad de temas, desde diseño gráfico hasta fotografía y desarrollo web.
+7. [Codecademy](https://www.codecademy.com/) - Una plataforma que ofrece cursos en línea gratuitos y de pago en programación y tecnología.
+8. [FutureLearn](https://www.futurelearn.com/) - Una plataforma en línea que ofrece cursos en línea gratuitos y de pago en una amplia variedad de temas, desde negocios y finanzas hasta tecnología y ciencias.
+9. [Harvard Online Learning](https://online-learning.harvard.edu/) - Una plataforma que ofrece una amplia variedad de cursos en línea gratuitos y de pago de Harvard University.
+10. [OpenClassrooms](https://openclassrooms.com/) - Una plataforma que ofrece una amplia variedad de cursos en línea en tecnología, negocios y más, con un enfoque en habilidades prácticas y empleabilidad.
+
 # ARTÍCULOS 
 
 *REPOSITORIO DE ARTICULOS* [Recursos Drive](g for Big Data Processing" por Bo Yang, et al. Disponible en: [https://www.sciencedirect.com/science/article/abs/pii/S0167739X20314308](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20314308))
